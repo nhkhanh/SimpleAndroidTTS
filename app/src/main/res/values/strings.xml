@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SimpleTTS</string>
+    <string name="speak">Nói</string>
+    <string name="greeting">Chào bạn, bạn khỏe không?</string>
+</resources>
